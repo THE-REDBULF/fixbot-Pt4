@@ -1,9 +1,9 @@
 {
-  "ownerNumber": ["6285921165857@s.whatsapp.net"],
-  "ownerName": ["Christian ID"],
-  "ownerNum": "6285921165857",
-  "botName": "Hitomi MD",
-  "footer": "© Hitomi MD 2022",
+  "ownerNumber": ["62895367239503@s.whatsapp.net"],
+  "ownerName": ["YanGG"],
+  "ownerNum": "62895367239503",
+  "botName": "Yanna-Bot",
+  "footer": "© Yanna-Bot 2022",
   "fake": "Bot By Christian ID",
   "sessionName": "hitomi",
   "pathimg": "./media/hitomi.jpg",
@@ -21,7 +21,7 @@
   "quickReplyButton4": "Donasi 💰",
   "quickReplyButton5": "Rate Bot ⭐",
    
-  "ButtonMenuLink1": "https://youtube.com/c/ChristianID99",
+  "ButtonMenuLink1": "https://youtube.com/c/None",
   "ButtonMenuLink2": "https://rest-api-hitomi.herokuapp.com/docs",
   "displayTextMenu3": "command",
   "displayTextMenu4": "donasi",
